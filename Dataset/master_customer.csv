@@ -1,0 +1,138 @@
+customer_id,customer_name,gender,birth_date,phone_number,email,open_date,created_date
+CUST007150,Salsabila Purnawati,F,1990-09-17,081 074 0279,salsabila.purnawati@hotmail.com,2024/12/31,2024-12-31 18:55:01
+CUST003319,Cornelia Wijayanti,F,1997-03-05,(033) 657-9634,cornelia.wijayanti@gmail.com,2024/12/31,2024-12-31 17:24:59
+CUST001979,Jefri Sihombing,M,1982-02-26,(055) 600 5511,jefri.sihombing@gmail.com,2024/12/31,2024-12-31 15:03:43
+CUST007254,Elma Maryati,F,1984-03-25,+62-008-153-1104,elma.maryati@yahoo.com,2024/12/31,2024-12-31 00:48:10
+CUST004392,Najwa Natsir,F,1980-05-25,+62 (678) 311-9386,najwa.natsir@hotmail.com,2024/12/31,2024-12-31 17:41:05
+CUST002637,Jabal Padmasari,M,1994-08-02,+62 (022) 864 6047,jabal.padmasari@gmail.com,2024/12/31,2024-12-31 21:22:12
+CUST001120,Kawaca Wastuti,M,1994-03-20,+62 (630) 685-6130,kawaca.wastuti@hotmail.com,2024/12/31,2024-12-31 10:55:43
+CUST008782,Vinsen Kuswandari,M,2003-12-25,(0259) 346-5871,vinsen.kuswandari@yahoo.com,2024/12/31,2024-12-31 19:44:28
+CUST005127,Hani Palastri,F,2003-02-10,+62 (368) 876-1503,hani.palastri@hotmail.com,2024/12/31,2024-12-31 18:37:35
+CUST007931,Manah Hidayat,M,1986-02-07,+62-666-995-1756,manah.hidayat@gmail.com,2024/12/31,2024-12-31 22:16:47
+CUST004105,Artawan Widodo,M,1996-11-12,+62 (73) 002-8659,artawan.widodo@yahoo.com,2024/12/31,2024-12-31 04:54:27
+CUST007482,Zulaikha Yuliarti,F,1994-08-14,+62-52-366-4445,zulaikha.yuliarti@yahoo.com,2024/12/31,2024-12-31 20:32:53
+CUST004504,Septi Latupono,F,1982-04-04,+62 (648) 547 9207,septi.latupono@gmail.com,2024/12/31,2024-12-31 01:15:29
+CUST001597,Aisyah Laksmiwati,F,1990-11-15,(072) 355-8558,aisyah.laksmiwati@yahoo.com,2024/12/31,2024-12-31 07:01:42
+CUST001128,Timbul Prayoga,M,1990-02-21,+62-629-253-0038,timbul.prayoga@hotmail.com,2024/12/31,2024-12-31 05:50:17
+CUST005109,Karta Manullang,M,1992-12-26,+62 (67) 695-2628,karta.manullang@hotmail.com,2024/12/31,2024-12-31 23:16:07
+CUST002583,Mustika Yuniar,M,1977-07-26,+62 (61) 186-3826,mustika.yuniar@gmail.com,2024/12/31,2024-12-31 21:29:10
+CUST001704,Putu Wijaya,M,1997-06-24,0800694086,putu.wijaya@hotmail.com,2024/12/31,2024-12-31 12:24:40
+CUST004778,Galiono Nashiruddin,M,1992-06-03,(076) 529 1618,galiono.nashiruddin@gmail.com,2024/12/31,2024-12-31 17:11:20
+CUST006034,Jarwi Zulkarnain,M,1996-11-21,+62-06-518-9593,jarwi.zulkarnain@yahoo.com,2024/12/31,2024-12-31 08:57:47
+CUST006814,Gantar Puspita,M,1997-08-27,+62 (0340) 343 8713,gantar.puspita@hotmail.com,2024/12/31,2024-12-31 23:31:18
+CUST009381,Ani Habibi,F,1981-07-31,+62 (888) 571 0613,ani.habibi@gmail.com,2024/12/31,2024-12-31 19:32:52
+CUST006333,Darijan Nainggolan,M,1985-12-23,+62 (448) 155 7771,darijan.nainggolan@yahoo.com,2024/12/31,2024-12-31 02:18:38
+CUST004945,Mujur Ramadan,M,1997-07-12,+62 (587) 770-3181,mujur.ramadan@hotmail.com,2024/12/31,2024-12-31 07:44:52
+CUST006964,Gadang Hasanah,M,1991-02-01,+62 (157) 680-9083,gadang.hasanah@yahoo.com,2024/12/31,2024-12-31 11:49:21
+CUST009162,Balamantri Prasetyo,M,2001-01-24,(0502) 789 5386,balamantri.prasetyo@gmail.com,2024/12/31,2024-12-31 11:37:23
+CUST003147,Umi Hartati,F,1979-02-03,(011) 823-0248,umi.hartati@hotmail.com,2024/12/31,2024-12-31 01:10:53
+CUST004817,Taswir Santoso,M,2005-03-17,(082) 361-6765,taswir.santoso@gmail.com,2024/12/31,2024-12-31 12:45:06
+CUST008535,Fitriani Ramadan,F,1984-09-24,(0699) 164-5135,fitriani.ramadan@hotmail.com,2024/12/31,2024-12-31 21:17:52
+CUST008674,Wulan Astuti,F,1999-04-04,+62 (0623) 257 4154,wulan.astuti@gmail.com,2024/12/31,2024-12-31 07:02:49
+CUST008422,Nabila Nugroho,F,1978-04-09,+62 (032) 128 7819,nabila.nugroho@gmail.com,2024/12/31,2024-12-31 23:34:18
+CUST003553,Vero Prayoga,M,2007-03-28,+62-0194-503-7784,vero.prayoga@hotmail.com,2024/12/31,2024-12-31 20:20:01
+CUST007809,Emong Wijayanti,M,1975-06-09,+62 (005) 842-1634,emong.wijayanti@yahoo.com,2024/12/31,2024-12-31 21:58:11
+CUST008987,Kemba Yulianti,M,1989-05-02,083 886 1676,kemba.yulianti@gmail.com,2024/12/31,2024-12-31 20:50:47
+CUST003228,Karsana Waskita,M,1996-02-07,0846490369,karsana.waskita@hotmail.com,2024/12/31,2024-12-31 02:39:37
+CUST007656,Kusuma Prastuti,M,1996-12-31,+62-081-844-1372,kusuma.prastuti@yahoo.com,2024/12/31,2024-12-31 10:24:36
+CUST007854,Nasab Halimah,M,1978-03-27,+62-0464-991-0242,nasab.halimah@yahoo.com,2024/12/31,2024-12-31 01:48:22
+CUST005956,Gina Siregar,F,1989-06-27,(091) 566 8855,gina.siregar@gmail.com,2024/12/31,2024-12-31 05:48:34
+CUST007768,Emas Dongoran,M,1985-09-25,+62 (0357) 302 7197,emas.dongoran@gmail.com,2024/12/31,2024-12-31 18:15:29
+CUST005218,Usman Narpati,M,1992-03-05,(035) 502-9078,usman.narpati@hotmail.com,2024/12/31,2024-12-31 08:31:14
+CUST002287,Lalita Hastuti,F,1986-02-17,081 278 2536,lalita.hastuti@gmail.com,2024/12/31,2024-12-31 02:30:05
+CUST005264,Dewi Suartini,F,1974-11-26,+62 (0166) 776-2238,dewi.suartini@hotmail.com,2024/12/31,2024-12-31 21:13:36
+CUST007156,Rahmat Hutasoit,M,2004-02-01,+62 (466) 471 7304,rahmat.hutasoit@hotmail.com,2024/12/31,2024-12-31 11:39:14
+CUST007747,Satya Purwanti,M,1999-02-03,+62 (00) 108 9935,satya.purwanti@gmail.com,2024/12/31,2024-12-31 17:47:14
+CUST005770,Jayadi Winarno,M,1996-05-16,+62 (064) 574 1080,jayadi.winarno@yahoo.com,2024/12/31,2024-12-31 20:16:00
+CUST007443,Hana Ramadan,F,2001-08-13,+62 (0184) 072 5463,hana.ramadan@gmail.com,2024/12/31,2024-12-31 06:51:59
+CUST004020,Luis Oktaviani,M,1994-01-17,+62-54-331-7417,luis.oktaviani@gmail.com,2024/12/31,2024-12-31 18:25:18
+CUST002945,Cinta Winarsih,F,1978-07-27,+62-62-108-2382,cinta.winarsih@gmail.com,2025/01/01,2025-01-01 09:43:36
+CUST005270,Embuh Marbun,M,1999-09-22,+62 (15) 475-1181,embuh.marbun@gmail.com,2025/01/01,2025-01-01 12:21:06
+CUST004609,Maman Haryanto,M,1993-07-19,085 002 0093,maman.haryanto@yahoo.com,2025/01/01,2025-01-01 22:11:27
+CUST004547,Kayla Jailani,F,1989-10-29,(0346) 657 2488,kayla.jailani@hotmail.com,2025/01/01,2025-01-01 19:28:59
+CUST003549,Laras Palastri,F,1986-03-14,087 249 6290,laras.palastri@hotmail.com,2025/01/01,2025-01-01 16:26:12
+CUST001309,Oliva Pratiwi,F,1990-08-05,(0522) 928-9657,oliva.pratiwi@gmail.com,2025/01/01,2025-01-01 16:58:50
+CUST007085,Atma Wahyudin,M,1978-12-30,+62 (019) 105-8465,atma.wahyudin@hotmail.com,2025/01/01,2025-01-01 21:05:12
+CUST004837,Calista Wahyudin,F,1979-04-07,+62 (093) 339 4402,calista.wahyudin@yahoo.com,2025/01/01,2025-01-01 18:09:29
+CUST005429,Galiono Puspita,M,1990-07-30,(087) 575-6170,galiono.puspita@yahoo.com,2025/01/01,2025-01-01 08:31:46
+CUST009458,Saka Sihombing,M,1998-10-04,+62 (069) 481 5182,saka.sihombing@hotmail.com,2025/01/01,2025-01-01 06:02:39
+CUST005604,Kiandra Padmasari,F,2000-08-21,0865695318,kiandra.padmasari@gmail.com,2025/01/01,2025-01-01 17:58:50
+CUST002965,Arsipatra Hidayat,M,1996-10-06,+62-011-071-8027,arsipatra.hidayat@hotmail.com,2025/01/01,2025-01-01 11:15:44
+CUST001220,Cinta Widodo,F,1980-09-02,+62 (021) 338-0079,cinta.widodo@hotmail.com,2025/01/01,2025-01-01 03:05:44
+CUST002437,Asmianto Waluyo,M,2002-03-24,+62-898-834-8717,asmianto.waluyo@yahoo.com,2025/01/01,2025-01-01 02:23:41
+CUST007562,Aurora Jailani,F,1982-05-18,+62 (084) 039 3279,aurora.jailani@gmail.com,2025/01/01,2025-01-01 09:46:15
+CUST004293,Salimah Marbun,F,1978-01-06,0845971251,salimah.marbun@yahoo.com,2025/01/01,2025-01-01 14:10:28
+CUST005249,Calista Suartini,F,2006-02-18,+62 (0638) 910-1368,calista.suartini@hotmail.com,2025/01/01,2025-01-01 22:59:54
+CUST008127,Ilsa Wahyudin,F,1994-04-10,0849391398,ilsa.wahyudin@gmail.com,2025/01/02,2025-01-02 16:03:12
+CUST003463,Irfan Suryono,M,1999-12-04,(009) 808 6022,irfan.suryono@hotmail.com,2025/01/02,2025-01-02 14:57:22
+CUST002998,Jais Wahyudin,M,1988-08-08,+62-0340-193-0230,jais.wahyudin@yahoo.com,2025/01/02,2025-01-02 09:47:23
+CUST005205,Dwi Saefullah,M,1997-01-05,+62-0909-921-0282,dwi.saefullah@hotmail.com,2025/01/02,2025-01-02 05:34:46
+CUST001735,Citra Yuliarti,F,2004-02-09,+62 (0870) 047 3574,citra.yuliarti@yahoo.com,2025/01/02,2025-01-02 03:45:01
+CUST005584,Putri Natsir,F,1992-12-29,+62 (53) 461-9223,putri.natsir@gmail.com,2025/01/02,2025-01-02 01:09:01
+CUST009993,Lulut Mandasari,M,1986-04-02,+62-611-690-2271,lulut.mandasari@hotmail.com,2025/01/02,2025-01-02 08:42:54
+CUST001988,Sakura Sudiati,F,1999-08-29,+62 (0590) 209-5085,sakura.sudiati@hotmail.com,2025/01/02,2025-01-02 20:55:45
+CUST009708,Maras Sihombing,M,1986-12-29,+62 (028) 848 9487,maras.sihombing@gmail.com,2025/01/02,2025-01-02 05:47:08
+CUST002835,Adinata Tamba,M,1974-11-06,+62-708-861-4583,adinata.tamba@hotmail.com,2025/01/02,2025-01-02 03:31:01
+CUST009740,Mujur Jailani,M,2004-08-13,+62 (092) 539-7791,mujur.jailani@hotmail.com,2025/01/02,2025-01-02 07:11:39
+CUST009755,Amalia Firmansyah,F,1991-08-27,086 555 1391,amalia.firmansyah@hotmail.com,2025/01/03,2025-01-03 15:32:18
+CUST004841,Dewi Mayasari,F,1986-05-19,(0409) 918-0204,dewi.mayasari@gmail.com,2025/01/03,2025-01-03 11:46:11
+CUST003570,Jaswadi Suryono,M,1988-06-23,+62 (316) 074-3739,jaswadi.suryono@yahoo.com,2025/01/03,2025-01-03 16:46:58
+CUST004537,Usyi Oktaviani,F,1988-03-29,+62 (042) 023 5048,usyi.oktaviani@gmail.com,2025/01/03,2025-01-03 06:42:23
+CUST003406,Icha Maheswara,F,1988-10-09,+62 (32) 604 4927,icha.maheswara@yahoo.com,2025/01/03,2025-01-03 02:23:51
+CUST009204,Empluk Tamba,M,1980-08-02,+62 (33) 724-4946,empluk.tamba@yahoo.com,2025/01/03,2025-01-03 07:16:27
+CUST008584,Lili Megantara,F,1975-06-20,+62-967-130-1537,lili.megantara@gmail.com,2025/01/03,2025-01-03 19:47:09
+CUST004708,Prasetya Susanti,M,2006-03-20,+62 (0489) 404 1547,prasetya.susanti@hotmail.com,2025/01/03,2025-01-03 07:20:03
+CUST002604,Tira Pratiwi,F,2003-06-26,+62 (80) 097 2429,tira.pratiwi@yahoo.com,2025/01/03,2025-01-03 19:36:12
+CUST008004,Candra Santoso,M,2002-04-02,+62-05-612-3524,candra.santoso@yahoo.com,2025/01/03,2025-01-03 13:48:03
+CUST003871,Paulin Najmudin,F,1984-08-09,+62-003-006-4674,paulin.najmudin@yahoo.com,2025/01/03,2025-01-03 04:20:44
+CUST009152,Victoria Hutapea,F,1983-01-12,+62 (184) 333 2261,victoria.hutapea@hotmail.com,2025/01/04,2025-01-04 03:32:10
+CUST006256,Dimaz Waskita,M,1998-10-10,+62-43-304-7695,dimaz.waskita@hotmail.com,2025/01/04,2025-01-04 10:04:30
+CUST006821,Iriana Permadi,F,2004-09-27,(0608) 702 1997,iriana.permadi@gmail.com,2025/01/04,2025-01-04 00:26:49
+CUST008132,Dirja Palastri,M,1995-12-16,+62 (615) 013-5066,dirja.palastri@gmail.com,2025/01/04,2025-01-04 08:03:31
+CUST004170,Damar Fujiati,M,1979-11-21,(043) 513 4780,damar.fujiati@yahoo.com,2025/01/04,2025-01-04 01:15:16
+CUST006843,Silvia Nurdiyanti,F,1979-03-15,089 190 6488,silvia.nurdiyanti@yahoo.com,2025/01/04,2025-01-04 12:04:40
+CUST004934,Hilda Suartini,F,1989-10-20,082 356 1412,hilda.suartini@gmail.com,2025/01/05,2025-01-05 06:09:03
+CUST006714,Zamira Andriani,F,1991-05-12,+62-157-235-7199,zamira.andriani@hotmail.com,2025/01/05,2025-01-05 12:41:41
+CUST008196,Ibun Maryadi,M,1995-09-26,(017) 347 7875,ibun.maryadi@gmail.com,2025/01/05,2025-01-05 19:07:53
+CUST006043,Amelia Saefullah,F,2001-08-16,+62-084-849-7941,amelia.saefullah@gmail.com,2025/01/05,2025-01-05 14:41:50
+CUST004354,Agnes Thamrin,F,1977-11-07,+62 (838) 806-0378,agnes.thamrin@hotmail.com,2025/01/05,2025-01-05 06:14:22
+CUST005536,Siska Pangestu,F,1980-07-27,084 625 9764,siska.pangestu@hotmail.com,2025/01/05,2025-01-05 06:06:39
+CUST004307,Jelita Waluyo,F,1985-03-10,+62 (019) 741 6580,jelita.waluyo@yahoo.com,2025/01/06,2025-01-06 14:03:02
+CUST008578,Embuh Anggriawan,M,2003-08-04,+62 (0840) 161 5368,embuh.anggriawan@gmail.com,2025/01/06,2025-01-06 18:29:48
+CUST007293,Nabila Mulyani,F,1978-02-06,+62 (0609) 971 0771,nabila.mulyani@yahoo.com,2025/01/06,2025-01-06 02:42:29
+CUST004619,Olivia Hutagalung,F,1998-10-18,+62 (0938) 547 5124,olivia.hutagalung@hotmail.com,2025/01/07,2025-01-07 23:03:29
+CUST008951,Faizah Usada,F,2000-12-24,(0965) 295-1711,faizah.usada@yahoo.com,2025/01/07,2025-01-07 05:39:00
+CUST001580,Shania Iswahyudi,F,1986-02-13,088 505 2989,shania.iswahyudi@gmail.com,2025/01/08,2025-01-08 00:11:33
+CUST001042,Hesti Santoso,F,2007-08-02,+62 (031) 550 2265,hesti.santoso@yahoo.com,2025/01/08,2025-01-08 08:35:16
+CUST002878,Chelsea Hutasoit,F,1998-09-02,+62-215-044-6796,chelsea.hutasoit@gmail.com,2025/01/08,2025-01-08 13:31:04
+CUST004212,Sarah Budiman,F,1987-06-06,+62-72-340-6541,sarah.budiman@yahoo.com,2025/01/09,2025-01-09 12:34:26
+CUST001137,Jayeng Waskita,M,1976-01-13,+62 (077) 708 0576,jayeng.waskita@gmail.com,2025/01/09,2025-01-09 15:17:14
+CUST005210,Kasiyah Lazuardi,F,1985-11-07,+62-19-656-7059,kasiyah.lazuardi@hotmail.com,2025/01/09,2025-01-09 15:29:09
+CUST005449,Raina Waluyo,F,1987-09-06,+62 (114) 979-6509,raina.waluyo@hotmail.com,2025/01/10,2025-01-10 20:40:32
+CUST008757,Prima Latupono,M,1998-07-02,080 306 7862,prima.latupono@gmail.com,2025/01/12,2025-01-12 11:45:30
+CUST004225,Devi Andriani,F,1982-10-01,(0453) 834 5810,devi.andriani@gmail.com,2025/01/15,2025-01-15 17:40:12
+CUST002244,Embuh Jailani,M,1980-01-25,+62-087-197-4574,embuh.jailani@hotmail.com,2025/01/16,2025-01-16 10:02:12
+CUST003345,Anita Pratama,F,1989-12-27,+62 (0596) 657 9560,anita.pratama@gmail.com,2025/01/17,2025-01-17 01:14:36
+CUST008078,Taufan Agustina,M,2002-01-05,+62-22-740-8817,taufan.agustina@gmail.com,2025/01/17,2025-01-17 05:46:00
+CUST002478,Alika Nugroho,F,1987-01-29,+62-438-981-7681,alika.nugroho@hotmail.com,2025/01/19,2025-01-19 06:50:55
+CUST001029,Alika Dongoran,F,1984-04-10,+62-963-146-5278,alika.dongoran@hotmail.com,2025/01/21,2025-01-21 01:00:47
+CUST006892,Emong Manullang,M,2002-08-24,+62-058-768-8754,emong.manullang@hotmail.com,2025/01/28,2025-01-28 02:24:14
+CUST009071,Ilsa Saragih,F,1995-04-19,+62-68-512-7243,ilsa.saragih@hotmail.com,2025/02/12,2025-02-12 19:21:54
+CUST003103,Asmuni Hutasoit,M,1988-08-08,(0501) 718-0761,asmuni.hutasoit@yahoo.com,2025/03/18,2025-03-18 12:31:01
+CUST008804,Arsipatra Prabowo,M,1988-04-30,+62 (031) 219-5383,arsipatra.prabowo@gmail.com,2025/09/11,2025-09-11 11:12:13
+CUST008842,Ani Purnawati,F,1998-12-13,+62 (0295) 880 4741,ani.purnawati@hotmail.com,2025/09/11,2025-09-11 11:12:13
+CUST008854,Nrima Damanik,M,1987-03-19,+62 (503) 118-7949,nrima.damanik@yahoo.com,2025/09/11,2025-09-11 11:12:13
+CUST008966,Rahmi Padmasari,F,1980-11-06,+62 (027) 871 2336,rahmi.padmasari@gmail.com,2025/09/11,2025-09-11 11:12:13
+CUST008990,Rangga Nababan,M,2007-01-04,+62-0992-496-9678,rangga.nababan@gmail.com,2025/09/11,2025-09-11 11:12:13
+CUST009022,Raisa Puspasari,F,1986-09-30,+62 (0743) 448 8286,raisa.puspasari@yahoo.com,2025/09/11,2025-09-11 11:12:13
+CUST009056,Gada Winarsih,M,2000-12-07,0809259635,gada.winarsih@hotmail.com,2025/09/11,2025-09-11 11:12:13
+CUST009070,Shania Tampubolon,F,2003-04-19,+62 (025) 592 9792,shania.tampubolon@gmail.com,2025/09/11,2025-09-11 11:12:13
+CUST009366,Mulyanto Suryono,M,2001-02-17,+62-0885-877-0893,mulyanto.suryono@yahoo.com,2025/09/11,2025-09-11 11:12:13
+CUST009403,Ifa Halimah,F,1983-12-24,+62 (91) 114-8861,ifa.halimah@hotmail.com,2025/09/11,2025-09-11 11:12:13
+CUST009448,Cinthia Mayasari,F,1994-07-03,+62 (304) 769-4866,cinthia.mayasari@hotmail.com,2025/09/11,2025-09-11 11:12:13
+CUST009522,Cakrawangsa Hutagalung,M,1989-03-25,+62 (39) 581-0404,cakrawangsa.hutagalung@gmail.com,2025/09/11,2025-09-11 11:12:13
+CUST009620,Ratna Pradipta,F,1987-11-14,+62 (149) 212-4956,ratna.pradipta@yahoo.com,2025/09/11,2025-09-11 11:12:13
+CUST009700,Asirwanda Hidayat,M,1991-01-15,0837121476,asirwanda.hidayat@hotmail.com,2025/09/11,2025-09-11 11:12:13
+CUST009875,Wadi Jailani,M,1996-02-28,088 915 7132,wadi.jailani@yahoo.com,2025/09/11,2025-09-11 11:12:13
+CUST009942,Jessica Wulandari,F,2005-08-29,080 239 5170,jessica.wulandari@yahoo.com,2025/09/11,2025-09-11 11:12:13
+CUST009990,Rina Uyainah,F,1984-08-05,(0829) 610 9735,rina.uyainah@yahoo.com,2025/09/11,2025-09-11 11:12:13
